@@ -1,4 +1,4 @@
-absl-py==1.4.0
+absl-py==1.4.1
 alembic==1.11.3
 anyio==3.7.1
 argon2-cffi==21.3.0
